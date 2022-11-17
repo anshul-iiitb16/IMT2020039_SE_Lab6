@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import unittest
 from Sum_Nat_Nums import sum_natnums
 
